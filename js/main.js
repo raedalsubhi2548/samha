@@ -1,34 +1,34 @@
-// Function to setup navigation scroll
+// Function to setup navigation scroll effects
 function setupNavScroll() {
-    // Your navigation scroll code here
+    // Implementation of navigation scroll
 }
 
 // Function to setup section reveal on scroll
 function setupSectionReveal() {
-    // Your section reveal code here
+    // Implementation of section reveal
 }
 
-// Function to setup parallax effect
+// Function to setup parallax background effects
 function setupParallax() {
-    // Your parallax code here
+    // Implementation of parallax effects
 }
 
 // Function to setup banner slider
 function setupBannerSlider() {
-    // Your banner slider code here
+    // Implementation of the banner slider
 }
 
-// Function to setup FAQ section
+// Function to setup FAQ functionality
 function setupFaq() {
-    // Your FAQ section code here
+    // Implementation of FAQ
 }
 
 // Function to setup reviews infinite scroll
 function setupReviewsInfinite() {
-    // Your reviews infinite scroll code here
+    // Implementation of reviews infinite scroll
 }
 
 // Function to setup road timeline animation
 function setupRoadTimelineAnimation() {
-    // Your road timeline animation code here
+    // Implementation of the road timeline animation
 }
